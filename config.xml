@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8" ?>
 <widget xmlns   = "http://www.w3.org/ns/widgets"
     xmlns:gap   = "http://phonegap.com/ns/1.0"
@@ -21,17 +20,3 @@
 <icon src="icon.png" />
 <gap:splash src="icon.png" />
 </widget>
-=======
-<?xml version='1.0' encoding='utf-8'?>
-<widget id="com.brandwebdirect.vedicnumerology" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>Vedic Numerology</name>
-    <description>
-        The most popular Indian Vedic Numerology, now on mobile app. Thank you everyone who demanded this app. The app is small and light weight and does exactly what its purpose is. May you achieve all success.
-    </description>
-    <author email="narottamfor-vedicnumerology@yahoo.co.in" href="mailto://narottamfor-vedicnumerology@yahoo.co.in">
-        PhoneGap Team
-    </author>
-    <content src="index.html" />
-    <access origin="*" />
-</widget>
->>>>>>> FETCH_HEAD
